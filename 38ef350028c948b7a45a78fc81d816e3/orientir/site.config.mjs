@@ -5,7 +5,7 @@ export default {
   locales: ['ru'],
   releaseManifest: 'release.json',
   contacts: {
-    telegram: 'https://t.me/example',
-    email: 'support@example.org',
+    telegram: 'https://t.me/poiskvoenosl',
+    email: 'poiskvoenosl@gmail.com',
   },
 };
